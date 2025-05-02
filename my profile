@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Personal profile page of Nawel">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Nawel's Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <img src="images/profile-picture.png" alt="Profile picture of Nawel" class="profile-img">
+    <h1>Hello, I'm Nawel</h1>
+    <p>I’m a passionate student learning web development. This is my first profile page using HTML and CSS!</p>
+    <ul class="social-links">
+      <li><a href="https://twitter.com" target="_blank">Twitter</a></li>
+      <li><a href="https://facebook.com" target="_blank">Facebook</a></li>
+      <li><a href="https://linkedin.com" target="_blank">LinkedIn</a></li>
+    </ul>
+  </div>
+</body>
+</html>
